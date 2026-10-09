@@ -302,6 +302,9 @@ a:hover { color: #0b477c; }
   background: linear-gradient(145deg, #fbfdff, #f3f7fa);
 }
 .project-topline { display: flex; justify-content: space-between; gap: 24px; align-items: flex-start; }
+.project-card + .project-card { margin-top: 20px; }
+.litespec-logo { display: block; width: min(100%, 360px); height: auto; margin-bottom: 22px; }
+.litespec-card .detail-list { margin-bottom: 0; }
 .education-date { margin: 0 0 5px; color: var(--accent); font-size: 12px; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; }
 .project-card h3,
 .education-card h3 { margin: 0; font-family: Georgia, serif; font-size: 23px; line-height: 1.3; }
