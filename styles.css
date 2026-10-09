@@ -305,7 +305,7 @@ a:hover { color: #0b477c; }
 .project-card + .project-card { margin-top: 20px; }
 .litespec-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; }
 .litespec-header h3 { flex: 1; min-width: 0; }
-.litespec-logo { display: block; flex: 0 0 auto; width: clamp(220px, 26vw, 300px); max-width:40%; height: auto; }
+.litespec-logo { display: block; flex: 0 0 auto; width: clamp(220px, 26vw, 300px); max-width:50%; height: auto; }
 .litespec-card .detail-list { margin-bottom: 0; }
 .education-date { margin: 0 0 5px; color: var(--accent); font-size: 12px; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; }
 .project-card h3,
